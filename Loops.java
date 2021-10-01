@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// print a to z char all values
 class Loops{
 	public static void main(String args[]){
 		int i=0;
